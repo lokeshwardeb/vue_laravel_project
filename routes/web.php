@@ -19,7 +19,7 @@ Route::get('/test', function(){
       ]);
 });
 
-Route::inertia('/form', 'Form');
+// Route::inertia('/form', 'Form');
 
 // Route::post('/form', []);
 

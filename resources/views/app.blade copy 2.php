@@ -6,7 +6,7 @@
     <title>{{ config('app.name') }}</title>
 
     <link rel="stylesheet" href="{{ asset('build/assets/app-BtW0pRbl.css') }}">
-    <script  src="{{ asset('build/assets/app-BOO1F6JN.js') }}" defer></script>
+    <script type="module" src="{{ asset('build/assets/app-Crmj7Mo0.js') }}" defer></script>
     
     <!-- Manually include dynamic head -->
     <script>
